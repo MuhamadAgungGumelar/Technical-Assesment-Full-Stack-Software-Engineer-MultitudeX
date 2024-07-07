@@ -1,0 +1,8 @@
+# Ignore virtual environment
+env/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore any local configuration files
+*.ini
